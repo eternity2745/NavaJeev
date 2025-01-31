@@ -5,10 +5,8 @@ NavaJeev has features such as reporting an incident, searching for nearby rehabs
 
 This project has another part for authorities which comes as a separate app to be distributed among police officers. The police officers can view incidents reported within the range of their respective police stations. By using this strategy police officers will be able to tackle incidents more actively and will help in reducing drug addiction among the youth.
 
-## hack_a_addict
+## User App
+App made for users
 
-The User App
-
-## hack_a_addict_authority
-
-The app for authorities
+## Authority App
+App made for authorities like Police
